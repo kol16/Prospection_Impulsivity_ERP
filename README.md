@@ -2,11 +2,4 @@
 scripts for behavioral analyses and sample of ERP analyses for Division III ERP study on prospective thinking and impulsivity
 
 
-includes: 
-  delay discounting preprocessing for hyperbolic model coefficients and AUC
-  delay discounting preprocessing for reaction time analyses 
- 
-  delay discounting analysis script for hyperbolic model coefficients and AUC
-  delay discounting analysis script for reaction time analyses
-  
-  sample of ERP analyses 
+includes: (1) delay discounting preprocessing for hyperbolic model coefficients and AUC, (2) delay discounting preprocessing for reaction time analyses, (3) delay discounting analysis script for hyperbolic model coefficients and AUC, (4) delay discounting analysis script for reaction time analyses, (5) sample of ERP analyses 
